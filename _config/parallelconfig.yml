@@ -1,0 +1,6 @@
+---
+Name: parallelconfig
+---
+Page_Controller:
+  extensions:
+    - 'ParallelLinkExtension'
