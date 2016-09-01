@@ -1,0 +1,23 @@
+{
+	"name" : "silverstripe-modules/distributedparallelrequests",
+	"description" : "Distrubutes requests across different domains to allow them to be run in parallel",
+	"type" : "silverstripe-module",
+	"keywords" : [
+		"silverstripe",
+		"requests",
+		"parallel",
+		"distribute"
+	],
+	"authors" : [{
+			"name" : "Guy Watson",
+			"email" : "guy.watson@internetrix.com.au"
+		}
+	],
+	"require" : {
+		"silverstripe/framework" : "~3.1"
+	},
+	"extra" : {
+		"installer-name" : "distributedparallelrequests"
+	},
+	"minimum-stability" : "dev"
+}
