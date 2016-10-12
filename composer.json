@@ -1,5 +1,5 @@
 {
-	"name" : "silverstripe-modules/distributedparallelrequests",
+	"name" : "internetrix/distributedparallelrequests",
 	"description" : "Distrubutes requests across different domains to allow them to be run in parallel",
 	"type" : "silverstripe-module",
 	"keywords" : [
